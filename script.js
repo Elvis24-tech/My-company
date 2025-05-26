@@ -1,4 +1,4 @@
-emailjs.init("YOUR_PUBLIC_KEY"); // Replace with your EmailJS Public Key
+emailjs.init("YOUR_PUBLIC_KEY"); 
 
 // Smooth scrolling for navigation links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
